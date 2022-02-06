@@ -8,7 +8,7 @@ https://postiess.github.io/css-spa/
 
 The sections with ```.section``` are targetted via CSS pseudo-selector ```:target``` to ```display:block``` otherwise they are hidden with ```display:none```.
 
-The page sections have a higher z-index to appear above the home page content. Perhaps there is a cleaner solution?
+The page sections have a higher z-index & are positioned absolute to appear above the home page content. Perhaps there is a cleaner solution?
 
 
 
